@@ -1,0 +1,11 @@
+/usr/bin/chfn
+/usr/bin/chsh
+/usr/bin/fusermount
+/usr/bin/gpasswd
+/usr/bin/newgrp
+/usr/bFind all files across the entire system that have setuid or setgid enabled (regardless of owner).
+
+/usr/bin/passwd
+/usr/sbin/pam_timestamp_check
+/usr/sbin/unix_chkpwd
+/usr/sbin/usernetctl

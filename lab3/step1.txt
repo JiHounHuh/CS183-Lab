@@ -1,0 +1,13 @@
+-rws--x--x. 1 root root 24048 Mar 14 03:37 /usr/bin/chfn
+-rws--x--x. 1 root root 23960 Mar 14 03:37 /usr/bin/chsh
+-rwsr-xr-x. 1 root root 32096 Oct 30 14:32 /usr/bin/fusermount
+-rwsr-xr-x. 1 root root 78272 Mar 14 03:35 /usr/bin/gpasswd
+-rwsr-xr-x. 1 root root 41872 Mar 14 03:35 /usr/bin/newgrp
+---s--x--x. 1 root root 147392 Oct 30 17:36 /usr/bin/sudo
+-rwsr-xr-x. 1 root root 44320 Mar 14 03:37 /usr/bin/mount
+-rwsr-xr-x. 1 root root 64328 Mar 14 03:35 /usr/bin/chage
+-rwsr-xr-x. 1 root root 32208 Mar 14 03:37 /usr/bin/su
+-rwsr-xr-x. 1 root root 32048 Mar 14 03:37 /usr/bin/umount
+-rwsr-xr-x. 1 root root 57664 Nov 20 06:22 /usr/bin/crontab
+-rwsr-xr-x. 1 root root 23656 Mar  8 06:27 /usr/bin/pkexec
+-rwsr-xr-x. 1 root root 27832 Jun  9  2014 /usr/bin/passwd
