@@ -1,4 +1,6 @@
 #!/bin/bash
+
+
 #dd can be utilized to change or create large/small files
 echo "hello friends. I am wumbo" > file.txt
 dd if=~/file.txt of=~/file1.txt conv=ucase
@@ -63,5 +65,6 @@ uname -a
 
 #wget retrieves content from webservers
 #wget https://launcher.mojang.com/v1/objects/f1a0073671057f01aa843443fef34330281333ce/server.jar
+#one above downloads a minecraft server
 wget http://alumni.cs.ucr.edu/~weesan/cs183/
 
