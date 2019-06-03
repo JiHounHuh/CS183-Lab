@@ -1,0 +1,8 @@
+# Create a database named cs183
+create database 183;
+# Select the database
+use cs183;
+# Create a grades table
+create table grades (name varchar(20), grade integer);
+# Add data into the table
+insert into grades values ('Alice', 80), ('Bob', 90), ('Claire',92), ('David', 60);
